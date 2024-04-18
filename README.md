@@ -10,6 +10,14 @@
 2. `cd tinytype`
 3. `npm start`
 
+### Demo and Final Product
+
+<img src="https://github.com/gupann/tinytype/assets/91845982/51a7dec3-f1c6-4d6d-a842-4f453a0d21e1" width="250" >
+
+https://github.com/gupann/tinytype/assets/91845982/082dbeae-cdbb-4448-b044-89cde862970c
+
+<img width="800" alt="Screenshot 2024-04-18 at 12 33 11 PM" src="https://github.com/gupann/tinytype/assets/91845982/9b12b0c3-e72a-4310-91af-89916c7bc246">
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
