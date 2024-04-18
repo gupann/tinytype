@@ -2,7 +2,7 @@
 
 ## TinyType—the Design
 
-[Check out my design process](https://docs.google.com/presentation/d/1SPL_SNFfWVUX5HuODdvf05jS8XQfyndW5x2WBPxmhqI/edit?usp=sharing)
+[Check out my prototypes and storyboard](https://docs.google.com/presentation/d/1SPL_SNFfWVUX5HuODdvf05jS8XQfyndW5x2WBPxmhqI/edit?usp=sharing)
 
 My keyboard design optimizes the user interface of a compact (2 cm by 2 cm, totaling 4 cm²) keypad by prioritizing the accessibility of more frequently used letters in the English language. The design logic assigns the most common letters to be accessed with a single tap, which minimizes the effort required to type commonly used words. Less frequent letters are assigned to double or triple taps, ensuring they are still accessible but prioritized lower due to their reduced usage frequency. This has been similarly done for numbers, punctuation and symbols.
 
