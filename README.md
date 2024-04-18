@@ -12,7 +12,7 @@ My keyboard design optimizes the user interface of a compact (2 cm by 2 cm, tota
 1. Clone the repository 
 2. `cd tinytype`
 3. `npm start`
-4. If you want to view it on a phone, connect your laptop and phone to the same network (hotspotting your computer from your phone works best). After running `npm start`, access the network specific url such as "On Your Network:  http://172.20.10.6:3000".
+4. If you want to view it on a phone, connect your laptop and phone to the same network (hotspotting your computer from your phone works best). After running `npm start`, access the network specific url such as "On Your Network:  http://172.20.10.6:3000" from your phone's browser.
 
 ### Understanding the code
 The main component, App.js, manages several state variables including the mode of the keypad (letters, numbers, or symbols), whether caps lock is active, and the current input value. Users can input text through taps that interpret single, double, or triple interactions differently depending on the key pressed, reflecting a nuanced input mechanism similar to old mobile phones.
